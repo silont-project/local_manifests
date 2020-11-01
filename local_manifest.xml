@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="nitrogen-project/android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="11" />
+  <project name="nitrogen-project/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="11" />
+</manifest>
